@@ -15025,7 +15025,7 @@ MonoBehaviour:
   - {fileID: 79614112}
   - {fileID: 1772376652}
   currentRound: 0
-  maxRounds: 48
+  maxRounds: 36
   buyButton: {fileID: 132849817}
   cancelButton: {fileID: 985497594}
   NextRoundButton: {fileID: 168527611}
