@@ -7,3 +7,4 @@ All the land tiles are named in the names of lands in Tang Dynasty in China, and
 
 ## This is the Unity Version of my final project
 You can open it with Unity Hub with any Unity Version that is compatible with Unity 6000.0.26f1.
+Make sure you open the "SampleScene" file in the Assets/Scene folder in the Unity Editor to open the game correctly!
